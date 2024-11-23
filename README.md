@@ -1,1 +1,1 @@
-# Volatility-Prediction-in-Financial-Markets-using-Stochastic-Models
+# Stochastic Volatility Modeling with the Heston Model
